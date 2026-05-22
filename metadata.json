@@ -1,0 +1,8 @@
+{
+  "name": "DocuTrans AI",
+  "description": "Modern AI-powered web application for translating files while preserving the original formatting, layout, tables, images, and document structure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
